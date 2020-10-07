@@ -15,7 +15,7 @@ namespace Rettangolo
             this.y = y;
             this.widht = w;
             this.height = h;
-        }
+        } 
         public double Area
         {
             get
